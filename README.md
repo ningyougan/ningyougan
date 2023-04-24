@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-[![NingYg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningyougan&count_private=true&show_icons=true&theme=dark)](https://github.com/ningyougan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningyougan&theme=dark)](https://github.com/ningyougan/github-readme-stats)
+|[![NingYg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningyougan&count_private=true&show_icons=true&theme=buefy)](https://github.com/ningyougan/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningyougan&theme=buefy)](https://github.com/ningyougan/github-readme-stats)|
+| --- | --- |
