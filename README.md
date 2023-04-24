@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br/>
-<p align="center"><a href="https://ningyougan.github.io"><img width="40%" alt="Hello, I'm ningyougan." src="./assets/readme-header.png" /></a></p>
+<p align="center"><a href="https://ningyougan.github.io"><img width="30%" alt="Hello, I'm ningyougan." src="./assets/readme-header.png" /></a></p>
 <br/>
 
 <!--
