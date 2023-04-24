@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ningyougan&show_icons=true&theme=gotham" alt="ningyougan" />
+[![NingYg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningyougan&count_private=true&show_icons=true&theme=dark)](https://github.com/ningyougan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningyougan&theme=dark)](https://github.com/ningyougan/github-readme-stats)
