@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<br/>
+<p align="center"><a href="https://ningyougan.github.io"><img width="80%" alt="Hello, I'm ningyougan." src="./assets/readme-header.png" /></a></p>
+<br/>
+
 <!--
 **ningyougan/ningyougan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
